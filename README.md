@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi 👋 I'm Keerthi Madhavaram
 
-<!--
-**keerthimadhavaram/keerthimadhavaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Healthcare Data Analyst | Business Intelligence
 
-Here are some ideas to get you started:
+I'm a Data Analyst with **4+ years of experience** transforming healthcare and business data into actionable insights using SQL, Python, Power BI, Snowflake, Azure Data Factory, Databricks, and modern analytics tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building scalable ETL pipelines, designing interactive dashboards, automating reporting, validating data quality, and helping organizations make data-driven decisions.
+
+---
+
+## 🚀 Technical Skills
+
+### Programming
+- SQL
+- Python
+
+### Business Intelligence
+- Power BI
+- Tableau
+- Microsoft Excel
+- DAX
+
+### Data Engineering
+- ETL Pipeline Development
+- Azure Data Factory
+- Azure Databricks
+- Snowflake
+- PySpark
+- Data Modeling
+- Data Validation
+
+### Python Libraries
+- Pandas
+- NumPy
+- Scikit-learn
+
+### Healthcare Analytics
+- Electronic Health Records (EHR)
+- Clinical Analytics
+- HIPAA
+- KPI Reporting
+- Operational Analytics
+
+---
+
+## 📊 Current Projects
+
+- 🏥 Healthcare Analytics Dashboard
+- 🐍 Python Data Analysis
+- 🗄 SQL Portfolio
+- 🔄 ETL Automation Pipeline
+- 🤖 Patient No-Show Prediction
+- 📈 Power BI Executive Dashboard
+
+---
+
+## 🌱 Currently Learning
+
+- Azure Data Engineering
+- Machine Learning
+- Generative AI
+- Advanced Power BI
+- Cloud Analytics
+
+---
+
+## 📫 Connect With Me
+
+📍 Woodridge, Illinois, USA
+
+📧 keerthim1602@gmail.com
+
+💼 LinkedIn:
+www.linkedin.com/in/keerthi-madhavaram
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
